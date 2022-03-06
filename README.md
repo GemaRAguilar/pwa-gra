@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Running server:
+git clone https://github.com/...
+cd pwa-gra
+npm install
+npm run build
+npm install -g serve
+serve -s build
 ## Available Scripts
 
 In the project directory, you can run:
