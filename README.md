@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Running server:
-git clone https://github.com/...
+git clone https://github.com/GemaRAguilar/pwa-gra.git
 cd pwa-gra
 npm install
 npm run build

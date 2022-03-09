@@ -6,19 +6,16 @@ body {
   /* Make content area fill the entire browser window */
   html,
   .fullscreen {
-    display: flex;
-    height: 100%;
     margin: 0;
-    padding: 0;
-    width: 100%;
+    padding: 5rem 0 0 0;
+    background-color: black;
   }
   
   /* Center the content in the browser window */
-  .container {
+  .background {
     margin: auto;
-    text-align: center;
+    max-width: 1152px;
+    max-height: 500px;
   }
-  
-  .title {
-    font-size: 3rem;
-  }
+
+ 
